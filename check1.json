@@ -1,0 +1,295 @@
+[
+  [
+    {
+      "_id": "61377d899816b31b9cef08a1",
+      "name": "burger",
+      "img": "uploads/images/mcproducts/mc(1).jpg",
+      "price": 7,
+      "category": "burger",
+      "__v": 0,
+      "key": "61bc7f9a-d9f2-4218-8226-2f5f445f21be",
+      "qty": 6
+    },
+    { "date": "9/14/2021, 8:14:45 PM" }
+  ],
+  [
+    {
+      "_id": "61377e221288ec100ad5720a",
+      "name": "fry",
+      "img": "uploads/images/mcproducts/mc(7).jpg",
+      "price": 7,
+      "category": "burger",
+      "__v": 0,
+      "qty": 6,
+      "key": "25f3b8e5-3ff5-4d4b-bb50-8ace0784861c"
+    },
+    { "date": "9/14/2021, 8:12:02 PM" }
+  ],
+  [
+    {
+      "_id": "61377d899816b31b9cef08a1",
+      "name": "burger",
+      "img": "uploads/images/mcproducts/mc(1).jpg",
+      "price": 7,
+      "category": "burger",
+      "__v": 0,
+      "key": "c84f9fae-890d-4f6d-8024-39c47c477c86",
+      "qty": 14
+    },
+    { "date": "9/14/2021, 8:10:56 PM" }
+  ],
+  [
+    {
+      "_id": "61377ded716cb5d4c60eb5e7",
+      "name": "double burger",
+      "img": "uploads/images/mcproducts/mc(4).jpg",
+      "price": 7,
+      "category": "burger",
+      "__v": 0,
+      "qty": 1,
+      "key": "677122d3-4587-411e-8a1b-2440261e3914"
+    },
+    {
+      "_id": "61377dd8ec17b711ded86a50",
+      "name": "set burger",
+      "img": "uploads/images/mcproducts/mc(2).png",
+      "price": 15,
+      "category": "burger",
+      "__v": 0,
+      "qty": 1,
+      "key": "36f9f76b-03ae-4db5-b0d0-11520ebad3e9"
+    },
+    {
+      "_id": "61377d899816b31b9cef08a1",
+      "name": "burger",
+      "img": "uploads/images/mcproducts/mc(1).jpg",
+      "price": 7,
+      "category": "burger",
+      "__v": 0,
+      "qty": 1,
+      "key": "ec078bea-915c-4fc5-8efc-baf143347343"
+    },
+    { "date": "9/14/2021, 8:09:54 PM" }
+  ],
+  [
+    {
+      "_id": "61377dd8ec17b711ded86a50",
+      "name": "set burger",
+      "img": "uploads/images/mcproducts/mc(2).png",
+      "price": 15,
+      "category": "burger",
+      "__v": 0,
+      "qty": 1,
+      "key": "2d867b36-97ca-4829-8831-fd5128f11cbe"
+    },
+    {
+      "_id": "61377dd8ec17b711ded86a50",
+      "name": "set burger",
+      "img": "uploads/images/mcproducts/mc(2).png",
+      "price": 15,
+      "category": "burger",
+      "__v": 0,
+      "qty": 1,
+      "key": "2d867b36-97ca-4829-8831-fd5128f11cbe"
+    },
+    {
+      "_id": "61377ded716cb5d4c60eb5e7",
+      "name": "double burger",
+      "img": "uploads/images/mcproducts/mc(4).jpg",
+      "price": 7,
+      "category": "burger",
+      "__v": 0,
+      "qty": 1,
+      "key": "48ae4f28-2780-4ff3-b586-4a85cefc23bc"
+    },
+    {
+      "_id": "61377ded716cb5d4c60eb5e7",
+      "name": "double burger",
+      "img": "uploads/images/mcproducts/mc(4).jpg",
+      "price": 7,
+      "category": "burger",
+      "__v": 0,
+      "qty": 1,
+      "key": "48ae4f28-2780-4ff3-b586-4a85cefc23bc"
+    },
+    {
+      "_id": "61377d899816b31b9cef08a1",
+      "name": "burger",
+      "img": "uploads/images/mcproducts/mc(1).jpg",
+      "price": 7,
+      "category": "burger",
+      "__v": 0,
+      "qty": 1,
+      "key": "b0e1b2f0-549e-4a40-a664-c440a84fa07b"
+    },
+    {
+      "_id": "61377d899816b31b9cef08a1",
+      "name": "burger",
+      "img": "uploads/images/mcproducts/mc(1).jpg",
+      "price": 7,
+      "category": "burger",
+      "__v": 0,
+      "qty": 1,
+      "key": "b0e1b2f0-549e-4a40-a664-c440a84fa07b"
+    },
+    { "date": "9/14/2021, 8:08:50 PM" }
+  ],
+  [
+    {
+      "_id": "61377dd8ec17b711ded86a50",
+      "name": "set burger",
+      "img": "uploads/images/mcproducts/mc(2).png",
+      "price": 15,
+      "category": "burger",
+      "__v": 0,
+      "qty": 1,
+      "key": "d7bd59a5-911c-4f2b-ab1b-073e2d368526"
+    },
+    {
+      "_id": "61377d899816b31b9cef08a1",
+      "name": "burger",
+      "img": "uploads/images/mcproducts/mc(1).jpg",
+      "price": 7,
+      "category": "burger",
+      "__v": 0,
+      "qty": 1,
+      "key": "736f7796-5bf9-4b79-8f08-34257723fedc"
+    },
+    { "date": "9/14/2021, 8:05:37 PM" }
+  ],
+  [
+    {
+      "_id": "61377e221288ec100ad5720a",
+      "name": "fry",
+      "img": "uploads/images/mcproducts/mc(7).jpg",
+      "price": 7,
+      "category": "burger",
+      "__v": 0,
+      "qty": 1,
+      "key": "1bfa534e-c112-4e06-8bee-d908b4ac754a"
+    },
+    {
+      "_id": "61377ded716cb5d4c60eb5e7",
+      "name": "double burger",
+      "img": "uploads/images/mcproducts/mc(4).jpg",
+      "price": 7,
+      "category": "burger",
+      "__v": 0,
+      "qty": 1,
+      "key": "2530c20a-99f5-4f59-aaa4-d2c34997dbe9"
+    },
+    { "date": "9/14/2021, 8:05:23 PM" }
+  ],
+  [
+    {
+      "_id": "613780cd5f26f4d8d6e9475f",
+      "name": "Pepsi bottle",
+      "img": "uploads/images/drinksproducts/d(7).jpg",
+      "price": 7,
+      "category": "drink",
+      "__v": 0,
+      "qty": 1,
+      "key": "2c20aac5-cc6c-4c2b-a951-d7f6b17ece3a"
+    },
+    {
+      "_id": "613780b4aff6aad3d676b7da",
+      "name": "Fanta bottle",
+      "img": "uploads/images/drinksproducts/d(6).jpg",
+      "price": 7,
+      "category": "drink",
+      "__v": 0,
+      "qty": 1,
+      "key": "6a11d2da-dd50-42b5-9350-de2fd9db457f"
+    },
+    {
+      "_id": "613780a2a1f614d75f750c4f",
+      "name": "Fanta can",
+      "img": "uploads/images/drinksproducts/d(5).jpg",
+      "price": 7,
+      "category": "drink",
+      "__v": 0,
+      "qty": 4,
+      "key": "c5377630-45b5-4c27-8885-5665949c930e"
+    },
+    { "date": "9/14/2021, 6:03:09 PM" }
+  ],
+  [
+    {
+      "_id": "613780a2a1f614d75f750c4f",
+      "name": "Fanta can",
+      "img": "uploads/images/drinksproducts/d(5).jpg",
+      "price": 7,
+      "category": "drink",
+      "__v": 0,
+      "qty": 1,
+      "key": "b35283e9-1e31-4161-a046-be26d609927e"
+    },
+    { "date": "9/14/2021, 5:58:56 PM" }
+  ],
+  [
+    {
+      "_id": "6137802c721674e5fc4c4226",
+      "name": "Sausage Pizza",
+      "img": "uploads/images/pizzaproducts/p(7).png",
+      "price": 7,
+      "category": "pizza",
+      "__v": 0,
+      "qty": 1,
+      "key": "9e2cf4c1-dbf7-46cb-9881-4891cd45ee39"
+    },
+    {
+      "_id": "6137801364e665e9fcaf373c",
+      "name": "Boss Pizza",
+      "img": "uploads/images/pizzaproducts/p(6).jpg",
+      "price": 7,
+      "category": "pizza",
+      "__v": 0,
+      "qty": 1,
+      "key": "d179d9e1-42b0-4171-8611-70d7eee22e9a"
+    },
+    {
+      "_id": "613780041212d1da167c74b1",
+      "name": "Margarita",
+      "img": "uploads/images/pizzaproducts/p(5).jpg",
+      "price": 7,
+      "category": "pizza",
+      "__v": 0,
+      "qty": 1,
+      "key": "8ab67de6-7915-4753-858b-c62922f6ffaa"
+    },
+    { "date": "9/14/2021, 5:58:38 PM" }
+  ],
+  [
+    {
+      "_id": "61377ded716cb5d4c60eb5e7",
+      "name": "double burger",
+      "img": "uploads/images/mcproducts/mc(4).jpg",
+      "price": 7,
+      "category": "burger",
+      "__v": 0,
+      "qty": 1,
+      "key": "61515a20-4eb0-4269-b56e-cd223e94b227"
+    },
+    {
+      "_id": "61377dd8ec17b711ded86a50",
+      "name": "set burger",
+      "img": "uploads/images/mcproducts/mc(2).png",
+      "price": 15,
+      "category": "burger",
+      "__v": 0,
+      "qty": 1,
+      "key": "d4b71614-d7ff-45a6-8878-588955d7a970"
+    },
+    {
+      "_id": "61377d899816b31b9cef08a1",
+      "name": "burger",
+      "img": "uploads/images/mcproducts/mc(1).jpg",
+      "price": 7,
+      "category": "burger",
+      "__v": 0,
+      "qty": 1,
+      "key": "73b7d104-52cc-4462-a8bd-68837e5320a7"
+    },
+    { "date": "9/14/2021, 5:58:20 PM" }
+  ]
+]
