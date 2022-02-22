@@ -1,4 +1,5 @@
 "use strict";
+require("dotenv").config();
 const fs = require("fs");
 const jwt = require("jsonwebtoken");
 const asyncHandler = require("express-async-handler");
@@ -226,7 +227,7 @@ const dailysumsGet = async (req, res) => {
 //token
 const maxAge = 3 * 24 * 60 * 60;
 const createToken = (id) => {
-  return jwt.sign({ id }, "net ninja secret", {
+  return jwt.sign({ id }, process.env.TOKEN, {
     expiresIn: maxAge,
   });
 };

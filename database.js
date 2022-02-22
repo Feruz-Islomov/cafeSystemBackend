@@ -1,10 +1,9 @@
 "use strict";
+require("dotenv").config();
 const mongoose = require("mongoose");
 
 module.exports = () => {
-  const dbURI =
-    process.env.MONGODB_URL ||
-    "mongodb+srv://newUser:3397998f@crud.dot0x.mongodb.net/products?retryWrites=true&w=majority";
+  const dbURI = process.env.MONGODB_URL;
   mongoose
     .connect(dbURI, {
       useNewUrlParser: true,
